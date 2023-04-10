@@ -1,2 +1,4 @@
+name: build laptop
+
 test:
   script: echo "Hello World!"
